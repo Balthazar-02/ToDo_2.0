@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 * [ ] user can **edit task list**:
-* [ ] user can ** create task directory **:
+* [ ] user can **create task directory**:
 
 
 ## Video Walkthrough
